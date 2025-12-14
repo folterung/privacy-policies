@@ -19,8 +19,8 @@ This repository is configured to work with GitHub Pages. To enable GitHub Pages:
 5. Click **Save**
 
 After enabling, your privacy policies will be available at:
-- `https://[your-username].github.io/privacy-policies/`
-- `https://[your-username].github.io/privacy-policies/flippy-boi/privacy-policy.html`
+- `https://folterung.github.io/privacy-policies/`
+- `https://folterung.github.io/privacy-policies/flippy-boi/privacy-policy.html`
 
 **Note**: It may take a few minutes for GitHub Pages to build and deploy your site after the first setup.
 
